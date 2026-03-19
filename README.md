@@ -1,6 +1,6 @@
 # A Theory of LLM Information Susceptibility
 
-Code for the paper *"A Theory of LLM Information Susceptibility"* by Zhuo-Yang Song.
+Code for the paper *"A Theory of LLM Information Susceptibility"* .
 
 ## Overview
 
@@ -159,14 +159,4 @@ python plot_figure_alpha.py       # Fig. 4: α(k) transition
 python plot_figure_response.py    # Fig. 4: Coupling regimes (schematic, no data needed)
 python plot_figure_3.py           # Fig. 5: Nested vs fixed AIME
 python plot_appendix_figures.py   # Extended Data figures
-```
-
-## Citation
-
-```bibtex
-@article{song2025susceptibility,
-  title={A Theory of LLM Information Susceptibility},
-  author={Song, Zhuo-Yang},
-  year={2025}
-}
 ```
